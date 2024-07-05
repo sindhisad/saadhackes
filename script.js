@@ -1,45 +1,45 @@
 const data = [
     {
-        place:'Switzerland Alps',
-        title:'SAINT',
-        title2:'ANTONIEN',
-        description:'Tucked away in the Switzerland Alps, Saint Antönien offers an idyllic retreat for those seeking tranquility and adventure alike. It\'s a hidden gem for backcountry skiing in winter and boasts lush trails for hiking and mountain biking during the warmer months.',
-        image:'https://assets.codepen.io/3685267/timed-cards-1.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://miro.medium.com/v2/resize:fit:640/format:webp/0*ngAthWxOvKZHvsw9'
     },
     {
-        place:'Japan Alps',
-        title:'NANGANO',
-        title2:'PREFECTURE',
-        description:'Nagano Prefecture, set within the majestic Japan Alps, is a cultural treasure trove with its historic shrines and temples, particularly the famous Zenkō-ji. The region is also a hotspot for skiing and snowboarding, offering some of the country\'s best powder.',
-        image:'https://assets.codepen.io/3685267/timed-cards-2.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://as2.ftcdn.net/v2/jpg/03/21/43/07/1000_F_321430761_qQi0CU9tzI5w1k1vJgdA02LMtXtsXvJE.jpg'
     },
     {
-        place:'Sahara Desert - Morocco',
-        title:'MARRAKECH',
-        title2:'MEROUGA',
-        description:'The journey from the vibrant souks and palaces of Marrakech to the tranquil, starlit sands of Merzouga showcases the diverse splendor of Morocco. Camel treks and desert camps offer an unforgettable immersion into the nomadic way of life.',
-        image:'https://assets.codepen.io/3685267/timed-cards-3.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://media.licdn.com/dms/image/D4E12AQEf1_dRQr5f2w/article-cover_image-shrink_720_1280/0/1693522269966?e=2147483647&v=beta&t=-iYGYgeOFuIqRnRkwAtzikU0KakgokV0UBJuowzhQvo'
     },
     {
-        place:'Sierra Nevada - USA',
-        title:'YOSEMITE',
-        title2:'NATIONAL PARAK',
-        description:'Yosemite National Park is a showcase of the American wilderness, revered for its towering granite monoliths, ancient giant sequoias, and thundering waterfalls. The park offers year-round recreational activities, from rock climbing to serene valley walks.',
-        image:'https://assets.codepen.io/3685267/timed-cards-4.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://wallpapers.com/images/high/64k-ultra-hd-hacker-anonymous-v-glowing-b4l4tj9di301vfa8.webp'
     },
     {
-        place:'Tarifa - Spain',
-        title:'LOS LANCES',
-        title2:'BEACH',
-        description:'Los Lances Beach in Tarifa is a coastal paradise known for its consistent winds, making it a world-renowned spot for kitesurfing and windsurfing. The beach\'s long, sandy shores provide ample space for relaxation and sunbathing, with a vibrant atmosphere of beach bars and cafes.',
-        image:'https://assets.codepen.io/3685267/timed-cards-5.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://images4.alphacoders.com/110/1108171.png'
     },
     {
-        place:'Cappadocia - Turkey',
-        title:'Göreme',
-        title2:'Valley',
-        description:'Göreme Valley in Cappadocia is a historical marvel set against a unique geological backdrop, where centuries of wind and water have sculpted the landscape into whimsical formations. The valley is also famous for its open-air museums, underground cities, and the enchanting experience of hot air ballooning.',
-        image:'https://assets.codepen.io/3685267/timed-cards-6.jpg'
+        place:'',
+        title:'',
+        title2:'',
+        description:'',
+        image:'https://images3.alphacoders.com/853/85329.jpg'
     },
 ]
 
